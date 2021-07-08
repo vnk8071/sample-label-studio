@@ -1,0 +1,21 @@
+[{
+  "data": {
+    "image": "/data/upload/CTEH-000075.jpg" 
+  },
+
+  "annotations": [{
+    "result": [
+      {
+        "id": "result1",
+        "type": "choices",        
+        "from_name": "choice", "to_name": "image",
+        "value": {
+            "choices": ["left"]
+          }
+      }
+    ],
+    "score": 0.95
+  }]
+}]
+
+ 
