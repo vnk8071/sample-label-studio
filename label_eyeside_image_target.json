@@ -1,0 +1,8 @@
+[
+ {"data": {"image": "/data/upload/CTEH-53586.jpg"}, "annotations": [{"result": [{"id": "result1", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["right"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/CTEH-53587.jpg"}, "annotations": [{"result": [{"id": "result2", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["right"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/CTEH-49466.jpg"}, "annotations": [{"result": [{"id": "result3", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["right"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/CTEH-53513.jpg"}, "annotations": [{"result": [{"id": "result4", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["left"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/CTEH-48823.jpg"}, "annotations": [{"result": [{"id": "result5", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["left"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/CTEH-53582.jpg"}, "annotations": [{"result": [{"id": "result6", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["left"]}}], "score": 0.95}]}
+]

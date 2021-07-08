@@ -1,0 +1,11 @@
+[
+ {"data": {"image": "/data/upload/0_0001CR0D.png"}, "annotations": [{"result": [{"id": "result1", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "", "P11", ""]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/1_0002CR0D.png"}, "annotations": [{"result": [{"id": "result2", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "", "P11", ""]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/2_0001CR0D.png"}, "annotations": [{"result": [{"id": "result3", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "P5", "", ""]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/3_0002CR0D.png"}, "annotations": [{"result": [{"id": "result4", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "P5", "", ""]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/4_0003CR0D.png"}, "annotations": [{"result": [{"id": "result5", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "", "P11", "Others"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/5_0002CR0D.png"}, "annotations": [{"result": [{"id": "result6", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "", "P11", "Others"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/6_0003CR0D.png"}, "annotations": [{"result": [{"id": "result7", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "", "P11", "Others"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/7_0002CR0D.png"}, "annotations": [{"result": [{"id": "result8", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "", "", "", "P11", "Others"]}}], "score": 0.95}]}, 
+ {"data": {"image": "/data/upload/8_0001CR0D.png"}, "annotations": [{"result": [{"id": "result9", "type": "choices", "from_name": "choice", "to_name": "image", "value": {"choices": ["", "P3", "", "", "P11", ""]}}], "score": 0.95}]}
+]
